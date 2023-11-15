@@ -2,7 +2,7 @@
 ![img1](https://github.com/mechkoor/controle_jee/assets/143960031/470b6939-0b7f-49b4-835d-ea07f3023ad4)
 # bdd_apres-l'ajout
 ![img2](https://github.com/mechkoor/controle_jee/assets/143960031/bf1cbb54-db5f-4fed-8131-a6dde73f3e50)
-#get_sevice_id=1
+# get_sevice_id=1
 ![img3](https://github.com/mechkoor/controle_jee/assets/143960031/66e383bf-56b7-49e0-9a9f-c7331e57240f)
 # get_allsevice
 ![img4](https://github.com/mechkoor/controle_jee/assets/143960031/108f7e5b-89e9-4cef-bdcc-8999ebb913c3)
